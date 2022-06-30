@@ -195,7 +195,7 @@
 			createStyles() {
 				let e = `\n      .mercadopago-button {\n        padding: 0 ${
 					24 / 14
-				}em;\n        font-family: "Helvetica Neue", Arial, sans-serif;\n        font-size: 0.875em;\n        line-height: ${
+				}em;\n        font-family: "Helvetica Neue", Arial, sans-serif;\n        font-size: 0.800em;\n        line-height: ${
 					38 / 14
 				};\n        background: #2ee4bb;\n        border-radius: ${
 					4 / 14
