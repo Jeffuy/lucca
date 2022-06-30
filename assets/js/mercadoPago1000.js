@@ -199,7 +199,8 @@
 					38 / 14
 				};\n        background: #2ee4bb;\n        border-radius: ${
 					4 / 14
-				}em;\n        color: #fff;\n        cursor: pointer;\n        border: 0;\n      }\n    `;
+				}em;\n        color: #fff;\n        cursor: pointer;\n        border: 0;\n      }\n
+				.mercadopago-button:hover {\n background: white;}   `;
 				"wallet" === this.options.type &&
 					(e += `\n        .mercadopago-button {\n          position: relative;\n          padding-left: ${
 						68 / 14
