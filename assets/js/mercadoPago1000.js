@@ -197,7 +197,7 @@
 					24 / 14
 				}em;\n        font-family: "Helvetica Neue", Arial, sans-serif;\n        font-size: 0.875em;\n        line-height: ${
 					38 / 14
-				};\n        background: #009ee3;\n        border-radius: ${
+				};\n        background: #2ee4bb;\n        border-radius: ${
 					4 / 14
 				}em;\n        color: #fff;\n        cursor: pointer;\n        border: 0;\n      }\n    `;
 				"wallet" === this.options.type &&
