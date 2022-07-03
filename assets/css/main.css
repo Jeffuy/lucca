@@ -72,18 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-.container-flex {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	margin-bottom: 15px;
-}
-
-	.container-flex > * {
-		margin: 5px;
-	}
 
 	
 
@@ -3895,3 +3883,17 @@ input, select, textarea {
 		}
 
 	}
+
+
+	.container-flex {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		margin-bottom: 15px;
+	}
+	
+		.container-flex > * {
+			margin: 5px;
+		}
